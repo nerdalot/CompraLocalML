@@ -24,6 +24,7 @@ Dada la existencia de extensiones como Greasemonkey, Tampermonkey o Violenmonkey
 > * UC: Tampermonkey
 > * Qupzilla: (no additional software required)
 > * AdGuard: (no additional software required)
+
 _**Barnabe, J., 2020. Greasy Fork - Safe And Useful User Scripts. [online] Greasyfork.org. Available at: <https://greasyfork.org/en> [Accessed 6 September 2020].**_
 
 2. Copia el contenido del archivo `userscript.js` y pegalo según las instrucciones de la extensión que elegiste.
